@@ -40,12 +40,12 @@ Go to the project directory
   cd nlw-return-impulse-mobile
 ```
 
-## Start the server
+## Start the application
 
 Open terminal and execute the following command:
 
 ```bash
-  npm run dev
+  expo start
 ```
 
 # License
