@@ -11,6 +11,12 @@ This repository contains the mobile application of the widget.
 
 ![widget](./assets/images/widget.png)
 
+# Layout
+
+You can find the layout of this project [in this link](https://www.figma.com/community/file/1102912516166573468).
+
+You must create an account to access and view.
+
 # Technologies
 
 - [React Native](https://reactnative.dev/docs/getting-started)
